@@ -1,0 +1,21 @@
+
+.OddNumberedElements {
+    background-color: rgb(231, 74, 108);
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+
+}
+
+#SecondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+#ThirdElement {
+    font-size: 24px;
+}
+
+#FourthElement {
+    background-color: rgb(32, 216, 32);
+    font-size: 24px;
+    font-weight: bold;
+}
